@@ -9,3 +9,5 @@ connection with me
 other
 
 ⬤ Chess - https://www.chess.com/member/arthur-karimullin
+
+<img src="https://komarev.com/ghpvc/?username=KarimullinArthur&style=flat"> 
