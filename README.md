@@ -3,7 +3,8 @@
 connection with me
 
 ⬤ E-mail - arthurkarimullin2005@gmail.com
-           KarimullinArthur@engineer.com     
+
+⬤ E-mail - KarimullinArthur@engineer.com     
 
 ⬤ Telegram - https://t.me/ArthurKarimullin
   
