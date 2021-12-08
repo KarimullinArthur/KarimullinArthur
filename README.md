@@ -4,7 +4,7 @@ connection with me
 
 ⬤ E-mail - arthurkarimullin2005@gmail.com
 
-⬤ E-mail - KarimullinArthur@engineer.com     
+⬤ E-mail - KarimullinArthur@engineer.com    (main) 
 
 ⬤ Telegram - https://t.me/ArthurKarimullin
   
