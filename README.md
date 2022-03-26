@@ -10,7 +10,7 @@ connection with me
   
 other
 
-⬤ All my link - wheretofind.me/@KarimullinArthur
+⬤ All my link -  https:/wheretofind.me/@KarimullinArthur
 
 ⬤ Chess - https://www.chess.com/member/arthur-karimullin
 
