@@ -10,6 +10,8 @@ connection with me
   
 other
 
+⬤ All my link - wheretofind.me/@KarimullinArthur
+
 ⬤ Chess - https://www.chess.com/member/arthur-karimullin
 
 <img src="https://komarev.com/ghpvc/?username=KarimullinArthur&style=flat"> 
