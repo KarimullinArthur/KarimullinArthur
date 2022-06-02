@@ -14,10 +14,12 @@ other
 
 ⬤ Chess - https://www.chess.com/member/arthur-karimullin
 
+<br>
+
 <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" title="Vim" alt="Vim" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" title="GNU/Linux" alt="GNU/Linux" width="40" height="40"/>
-          
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" title="Vim" alt="Vim" width="40" height="40"/>   
 </div>                 
 
 <img src="https://komarev.com/ghpvc/?username=KarimullinArthur&style=flat"> 
