@@ -15,7 +15,7 @@ other
 ⬤ Chess - https://www.chess.com/member/arthur-karimullin
 
 <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
 </div>                 
 
 <img src="https://komarev.com/ghpvc/?username=KarimullinArthur&style=flat"> 
