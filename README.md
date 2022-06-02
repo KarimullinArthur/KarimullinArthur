@@ -12,9 +12,8 @@ other
 
 ⬤ All my link - https://www.wheretofind.me/@KarimullinArthur
 
-⬤ Chess - https://www.chess.com/member/arthur-karimullin
-
 ---
+<img src="https://komarev.com/ghpvc/?username=KarimullinArthur&style=flat">
 
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
@@ -23,6 +22,4 @@ other
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"       title="Vim" alt="Vim" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"  title="Bash" alt="Bash" width="40" height="40/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"    title="Git" alt="Git" width="40" height="40/>
-</div>   
-
-<img src="https://komarev.com/ghpvc/?username=KarimullinArthur&style=flat">
+</div> 
