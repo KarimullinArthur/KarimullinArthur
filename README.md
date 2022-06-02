@@ -14,7 +14,7 @@ other
 
 ⬤ Chess - https://www.chess.com/member/arthur-karimullin
 
-<br>
+---
 
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40"/>
