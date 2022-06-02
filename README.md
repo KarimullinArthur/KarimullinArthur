@@ -12,9 +12,9 @@ other
 
 ⬤ All my link - https://www.wheretofind.me/@KarimullinArthur
 
----
+<img src="https://komarev.com/ghpvc/?username=KarimullinArthur&style=flat">
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+---
           
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"    alt="Python" width="40" height="40"/>
@@ -24,5 +24,3 @@ other
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"     title="Bash"  alt="Bash"  width="40" height="40"/>     
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"       title="Git"  alt="Git"   width="40" height="40/>       
  </div>
-                                                                                                                                         
- <img src="https://komarev.com/ghpvc/?username=KarimullinArthur&style=flat">
