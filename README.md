@@ -2,15 +2,13 @@
  
 connection with me
 
-⬤ E-mail - arthurkarimullin2005@gmail.com
-
-⬤ E-mail - KarimullinArthur@engineer.com    (main) 
+⬤ E-mail - KarimullinArthur@engineer.com    
 
 ⬤ Telegram - https://t.me/ArthurKarimullin
   
 other
 
-⬤ All my link - https://www.wheretofind.me/@KarimullinArthur
+⬤ All my link - karimullinarthur.github.io/me/
 
 <img src="https://komarev.com/ghpvc/?username=KarimullinArthur&style=flat">
 
