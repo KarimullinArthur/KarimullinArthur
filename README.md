@@ -8,7 +8,7 @@ connection with me
   
 other
 
-⬤ All my link - karimullinarthur.github.io/me/
+⬤ All my link - https://karimullinarthur.github.io/me/
 
 <img src="https://komarev.com/ghpvc/?username=KarimullinArthur&style=flat">
 
