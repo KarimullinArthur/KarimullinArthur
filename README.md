@@ -4,12 +4,6 @@ connection with me
 
 ⬤ E-mail - KarimullinArthur@engineer.com    
 
-⬤ Telegram - https://t.me/ArthurKarimullin
-  
-other
-
-⬤ All my link - https://karimullinarthur.github.io/me/
-
 <img src="https://komarev.com/ghpvc/?username=KarimullinArthur&style=flat">
 
 ---
