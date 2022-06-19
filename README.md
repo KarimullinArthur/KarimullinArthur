@@ -2,7 +2,7 @@
  
 connection with me
 
-⬤ E-mail - KarimullinArthur@engineer.com    
+⬤ E-mail - KarimullinArthur@riseup.net
 
 <img src="https://komarev.com/ghpvc/?username=KarimullinArthur&style=flat">
 
