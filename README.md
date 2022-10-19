@@ -1,11 +1,13 @@
- 👋 Hi, I’m Arthur
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+👋 Hi, I’m Arthur
  
 connection with me
 
 ⬤ E-mail - KarimullinArthur@riseup.net
 
-<img src="https://komarev.com/ghpvc/?username=KarimullinArthur&style=flat">
+<img src="https://komarev.com/ghpvc/?username=KarimullinArthur&style=flat">      
 
+<i class="devicon-bash-plain"></i>
 ---
           
 <div align="center">
