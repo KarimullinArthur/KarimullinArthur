@@ -2,7 +2,10 @@
  
 connection with me
 
-⬤ E-mail - KarimullinArthur@riseup.net
+⬤ E-mail - <a href="mailto:KarimullinArthur@riseup.net">KarimullinArthur@riseup.net</a>
+
+
+⬤ <a href="https://gist.github.com/KarimullinArthur">Github Gits</a>
 
 <img src="https://komarev.com/ghpvc/?username=KarimullinArthur&style=flat">      
 
