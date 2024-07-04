@@ -2,7 +2,7 @@
  
 connection with me
 
-⬤ E-mail - <a href="mailto:KarimullinArthur@riseup.net">KarimullinArthur@riseup.net</a>
+⬤ E-mail - <a href="mailto:KarimullinArthur@riseup.net">KarimullinArthur@disroot.org</a>
 
 
 ⬤ <a href="https://gist.github.com/KarimullinArthur">Github Gits</a>
