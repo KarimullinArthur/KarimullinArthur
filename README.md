@@ -1,6 +1,6 @@
 👋 Hi, I’m Arthur
  
-connection with me
+Reach me
 
 ⬤ E-mail - <a href="mailto:KarimullinArthur@disroot.org">KarimullinArthur@disroot.org</a>
 
